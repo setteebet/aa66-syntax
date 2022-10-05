@@ -1,18 +1,18 @@
 {
   "name": "aa66-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "king999หวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"king999หวย",
-"รวมเว็บหวยออนไลน์",
-"สมัครเว็บ lottovip",
-"ออนไลหวย",
-"lottovip company"
-],
+  "version": "0.2.0",
+  "description": "king999หวย✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "king999หวย",
+    "รวมเว็บหวยออนไลน์",
+    "สมัครเว็บ lottovip",
+    "ออนไลหวย",
+    "lottovip company"
+  ],
   "repository": "https://github.com/setteebet/aa66-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
